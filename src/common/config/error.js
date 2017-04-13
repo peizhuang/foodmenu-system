@@ -3,7 +3,7 @@
  * err config
  */
 export default {
-  //key: value
-  key: 'errno', //error number
-  msg: 'errmsg' //error message
+    //key: value
+    key: 'code', //error number
+    msg: 'msg' //error message
 };
